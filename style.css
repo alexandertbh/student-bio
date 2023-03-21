@@ -1,20 +1,42 @@
-body {
-    background-color: slategray;
+.lesson{
+    background-color: lemonchiffon;
     text-align:center;
 
 } 
 
-img {
+img{
     max-width: 80%;
     height: auto;
 }
 
-ul {
+.contact{
+
     text-align: left;
+    color:darkblue;
 }
 
 img:hover{
     border: 3px solid black;
     transform: scale(1.1);
     transition: .5s;
+}
+
+#email{
+    background-color: goldenrod;
+
+}
+
+#github{
+    background-color: lightsteelblue;
+
+}
+
+.name{
+    color: darkorange;
+
+
+}
+
+#portfolio{
+    background-color: blueviolet;
 }
