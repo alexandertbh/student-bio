@@ -12,3 +12,9 @@ img {
 ul {
     text-align: left;
 }
+
+img:hover{
+    border: 3px solid black;
+    transform: scale(1.1);
+    transition: .5s;
+}
