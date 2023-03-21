@@ -1,18 +1,22 @@
-.lesson{
-    background-color: lemonchiffon;
-    text-align:center;
 
-} 
+body{
+color: #ffffff;
+background-color:#112e51 ;
+text-align: center;
+}
 
 img{
-    max-width: 80%;
+    width: 80%;
     height: auto;
 }
 
-.contact{
+ul{
 
     text-align: left;
-    color:darkblue;
+    
+}
+a {
+    color:lightgray
 }
 
 img:hover{
@@ -22,21 +26,21 @@ img:hover{
 }
 
 #email{
-    background-color: goldenrod;
+
 
 }
 
 #github{
-    background-color: lightsteelblue;
+
 
 }
 
 .name{
-    color: darkorange;
+
 
 
 }
 
 #portfolio{
-    background-color: blueviolet;
+
 }
